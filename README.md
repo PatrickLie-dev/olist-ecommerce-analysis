@@ -123,5 +123,5 @@ jupyter notebook notebooks/olist_eda.ipynb
 **Patrick Lie** | Fresh IT Graduate — BSc Information Technology (IoT), Asia Pacific University  
 Actively seeking Junior Data Analyst roles in Jakarta, Indonesia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/patrick-lie-315964302/)
 [![GitHub](https://img.shields.io/badge/GitHub-PatrickLie--dev-black)](https://github.com/PatrickLie-dev)
