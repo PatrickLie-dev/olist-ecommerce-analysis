@@ -7,6 +7,10 @@
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
 ---
+## 🔗 Live Dashboard
+[View Looker Studio Dashboard](https://datastudio.google.com/s/oYurYRdI3R0)
+
+---
 
 ## Project Overview
 This project analyzes the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — a real-world dataset of 100,000+ orders from 2016–2018. The goal is to extract actionable business insights across sales, logistics, customer behavior, and seller performance.
